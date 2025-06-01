@@ -1,7 +1,7 @@
 class Solution {
     /*
      * @author Grace Hanson
-     * @date 4-14-2025
+     * @date 6-11-2025
      * @description This function calculates the score of a string based on the absolute
      */   
     public int scoreOfString(String s) {
